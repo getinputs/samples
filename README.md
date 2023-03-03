@@ -1,6 +1,8 @@
 # samples
 Read the explanation of the samples in the below website
 
+https://github.com/getinputs/samples/tree/main/spring-mvc-demo
+
 https://getinputs.com/builder-design-pattern-in-java/
 
 https://getinputs.com/injecting-literal-values/
